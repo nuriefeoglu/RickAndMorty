@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string-array name="CharacterStatus">
+        <item>Alive</item>
+        <item>Dead</item>
+        <item>Unknown</item>
+    </string-array>
+    <string-array name="CharacterSpecies">
+        <item>Human</item>
+        <item>Alien</item>
+    </string-array>
+    <string-array name="CharacterGender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Unknown</item>
+    </string-array>
+</resources>
